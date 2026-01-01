@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battlegrounds: PUBG",
+    "coverPhoto": "https://i.ibb.co.com/HD8GMRrf/pubg.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where 100 players parachute onto an island and fight for survival. Players scavenge weapons, gear, and supplies to outlast opponents. Strategic positioning, teamwork, and sharp aim are key to victory. The shrinking play zone adds intensity to every match. Vehicles, throwable weapons, and terrain create tactical depth. PUBG offers multiple maps, modes, and weather effects. Players can play solo, duo, or in squads. The game includes ranked modes, custom rooms, and events. Skins and outfits allow customization. Frequent updates add new weapons and collaborations. PUBG rewards skill, awareness, and strategy. Esports tournaments attract global players. The graphics and sound design enhance immersion. Dynamic gameplay ensures every match feels unique. Players can communicate with voice chat for coordination. The ranking system tracks progress and rewards. PUBG remains one of the most iconic and competitive mobile shooters ever released.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.ibb.co.com/8LGTbzzK/cod-mobile.jpg",
+    "category": "Shooter",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile brings console-quality shooting to mobile devices with stunning visuals and smooth controls. Players can engage in multiplayer modes such as Team Deathmatch, Domination, and Search & Destroy. The game also features a large-scale battle royale mode. Classic maps like Nuketown and Crash return in mobile form. Players can customize loadouts with weapons, attachments, and perks. Scorestreaks provide tactical advantages. Regular updates introduce new weapons and characters. Ranked play rewards skill and progression. The control system is optimized for touchscreen gameplay. Graphics and animations are fluid and realistic. Call of Duty: Mobile delivers both casual and competitive experiences. It includes seasonal events, limited-time modes, and collaborations. Players can join clans and participate in tournaments. The game encourages strategy, coordination, and reflexes. With deep customization and endless content, it stands as one of the best shooters on mobile.",
+    "ratings": "4.7",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.ibb.co.com/JW3jHGJ0/genshin-impact.jpg",
+    "category": "RPG",
+    "downloadLink": "https://genshin.hoyoverse.com/",
+    "description": "Genshin Impact is an open-world action RPG set in the stunning world of Teyvat. Players control Travelers who explore vast regions, solve puzzles, and battle enemies. Each character wields elemental powers tied to nature. The game features dynamic combat that combines magic, melee, and strategy. Players can switch between characters mid-battle for combos. The open world is filled with secrets, dungeons, and treasures. Regular updates introduce new regions and storylines. Multiplayer co-op allows exploration with friends. The music and visuals are breathtaking. Players collect and upgrade characters via the gacha system. Events and limited-time challenges offer rewards. Genshin balances exploration, storytelling, and action beautifully. The elemental system encourages experimentation. Each region has its culture and lore. The game promotes creativity and discovery. Genshin Impact continues to expand with major content updates and global fan engagement.",
+    "ratings": "4.6",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "4",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/7N4zS1TJ/amongus.jpg",
+    "category": "Party",
+    "downloadLink": "https://innersloth.com/gameAmongUs.php",
+    "description": "Among Us is a social deduction game set aboard a spaceship. Players take on roles as Crewmates or Impostors. Crewmates must complete tasks around the map while Impostors try to eliminate them secretly. Meetings allow players to discuss and vote out suspected impostors. The game relies on communication, deception, and observation. Players can customize their characters with colors and hats. Maps vary in layout and complexity. Updates have added new roles, tasks, and cosmetics. Cross-platform play connects friends globally. Voice and text chat enable interaction. Quick thinking and trust are vital for success. Among Us has become a cultural phenomenon with memes and fan art. Its simple gameplay and deep social interaction make it fun for all ages.",
+    "ratings": "4.3",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "5",
+    "title": "Clash Royale",
+    "coverPhoto": "https://i.ibb.co.com/7JjtfWFM/clash-royal.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://clashroyale.com/",
+    "description": "Clash Royale is a real-time strategy card game that blends tower defense and collectible cards. Players deploy troops and spells to destroy enemy towers. Each match lasts three minutes, demanding quick decisions and precision. Deck building and upgrades are key to success. The game features multiple arenas, each unlocking new cards. Clans encourage teamwork and donations. Players can participate in Clan Wars and tournaments. Events and challenges offer rewards and variety. The ranking system promotes competitive play. Clash Royale requires balancing elixir and timing for strategic moves. It’s colorful, fast-paced, and endlessly replayable. The community thrives with millions of players worldwide.",
+    "ratings": "4.4",
+    "developer": "Supercell"
+  },
+  {
+    "id": "6",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/HL8bV8xr/minecraft-banner.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/",
+    "description": "Minecraft is a sandbox adventure game where players can build, explore, and survive in a world made of blocks. Players collect resources to craft tools, construct buildings, and fend off enemies. Survival mode challenges players with hunger and danger. Creative mode allows limitless construction. Multiplayer worlds enable collaboration and creativity. Redstone mechanisms allow building complex machines. The game offers biomes, caves, oceans, and dimensions to explore. Frequent updates add new mobs, materials, and features. Players can customize skins and textures. Minecraft has inspired millions with its creative freedom and infinite possibilities.",
+    "ratings": "4.8",
+    "developer": "Mojang"
+  },
+  {
+    "id": "7",
+    "title": "Free Fire",
+    "coverPhoto": "https://i.ibb.co.com/3Ym30mfs/freefire.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/",
+    "description": "Free Fire is a mobile battle royale where 50 players drop onto an island to survive. Matches last around 10 minutes, keeping gameplay fast-paced. Players gather weapons, armor, and items while staying inside the safe zone. The game offers diverse characters with special abilities. Clans and ranked play enhance competitiveness. Vehicles, terrains, and strategies make each match unique. Custom rooms and events add variety. Free Fire’s accessibility, frequent updates, and intense gameplay make it one of the most popular mobile games worldwide.",
+    "ratings": "4.2",
+    "developer": "Garena"
+  },
+  {
+    "id": "8",
+    "title": "Valorant",
+    "coverPhoto": "https://i.ibb.co.com/4nhL6hNV/valorant.jpg",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a tactical first-person shooter where precision and teamwork matter. Two teams of five compete in objective-based rounds. Each agent has unique abilities that complement traditional gunplay. Players must plan economy, communication, and positioning to win. The game encourages strategy and coordination. Frequent updates add new agents and maps. Competitive and casual modes cater to different players. Esports tournaments highlight its growing popularity. Valorant’s blend of sharp aim and special abilities makes it deeply strategic and thrilling.",
+    "ratings": "4.6",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "9",
+    "title": "Fortnite",
+    "coverPhoto": "https://i.ibb.co.com/8D0Sw4KH/fortnite.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.epicgames.com/fortnite/",
+    "description": "Fortnite is a colorful and fast-paced battle royale with unique building mechanics. Players gather resources to construct defensive structures. The shrinking storm keeps matches exciting. Skins, emotes, and events add creativity. Fortnite supports solo, duo, and squad play. Crossovers with movies and brands keep content fresh. Players can also explore Creative mode and design their own worlds. Frequent updates and collaborations ensure continuous engagement.",
+    "ratings": "4.4",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "10",
+    "title": "Asphalt 9: Legends",
+    "coverPhoto": "https://i.ibb.co.com/PZGcvhPQ/asphalt.jpg",
+    "category": "Racing",
+    "downloadLink": "https://www.gameloft.com/game/asphalt-9-legends",
+    "description": "Asphalt 9: Legends is a high-speed racing game with realistic graphics and physics. Players race in exotic cars across iconic cities. Drifting, nitro boosts, and aerial stunts add excitement. Career mode features hundreds of races. Multiplayer allows global competition. Players can customize cars with colors and upgrades. Clubs encourage teamwork and progress. With frequent updates and limited-time events, Asphalt 9 delivers thrilling and competitive racing fun.",
+    "ratings": "4.5",
+    "developer": "Gameloft"
+  },
+  {
+    "id": "11",
+    "title": "League of Legends: Wild Rift",
+    "coverPhoto": "https://i.ibb.co.com/VW1vQyL0/league-of-legends.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://wildrift.leagueoflegends.com/",
+    "description": "Wild Rift brings the classic League of Legends experience to mobile with shorter matches and refined controls. Players choose from a roster of champions with unique skills. The 5v5 gameplay requires teamwork and map awareness. Objectives like turrets and dragons shape strategy. Ranked modes and seasonal events keep competition strong. Cosmetics and rewards enhance customization. Wild Rift balances accessibility and depth, making it perfect for both casual and competitive players.",
+    "ratings": "4.6",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "12",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://i.ibb.co.com/S7D6wyfS/subway.jpg",
+    "category": "Arcade",
+    "downloadLink": "https://www.kiloo.com/games/subway-surfers/",
+    "description": "Subway Surfers is a vibrant endless runner where players dash through subways avoiding trains and obstacles. Coins collected unlock characters and boards. Power-ups help extend runs. Weekly challenges and global leaderboards add competition. Frequent updates bring new cities and themes. Simple controls and colorful visuals make it enjoyable for all ages. Subway Surfers remains one of the most beloved mobile games ever created.",
+    "ratings": "4.5",
+    "developer": "Kiloo & SYBO Games"
+  }
+]
