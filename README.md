@@ -9,6 +9,31 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/tahsin-99/GameHub/blob/ce9bf34b11ce32b975b50b71a8fcae3c34b97a6b/game1.png" alt="Home Page" width="380" />
+      </td>
+      <td>
+        <img src="https://github.com/tahsin-99/GameHub/blob/ce9bf34b11ce32b975b50b71a8fcae3c34b97a6b/game2.png" alt="Game List" width="380" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/tahsin-99/GameHub/blob/ce9bf34b11ce32b975b50b71a8fcae3c34b97a6b/game2.png" alt="Game Details" width="380" />
+      </td>
+      <td>
+        <img src="https://github.com/tahsin-99/GameHub/blob/ce9bf34b11ce32b975b50b71a8fcae3c34b97a6b/game4.png" alt="Mobile View / Animations" width="380" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## 🎯 Purpose
 
 The goal of **GameHub** is to provide an interactive and user-friendly game library where users can browse games and access detailed information through authentication.
