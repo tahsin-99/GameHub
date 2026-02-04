@@ -1,6 +1,6 @@
 # 🎮 GameHub
 
-GameHub is a modern game library web application where users can explore updated, high-value, and top-rated games. Users can view detailed game information after logging into their account.
+**GameHub** is a modern game library web application where users can explore updated, high-value, and top-rated games. Users can securely log in to view detailed game information.
 
 ---
 
@@ -10,36 +10,62 @@ GameHub is a modern game library web application where users can explore updated
 ---
 
 ## 🎯 Purpose
-The purpose of this project is to provide an interactive game library platform where users can browse games and access detailed information through authentication.
+
+The goal of **GameHub** is to provide an interactive and user-friendly game library where users can browse games and access detailed information through authentication.
 
 ---
 
 ## ✨ Key Features
-- 🔄 View updated games  
+
+- 🔄 Browse updated games  
 - 💎 Explore high-value games  
 - ⭐ Discover top-rated games  
-- 🔐 User authentication with Firebase  
-- 📄 View game details after login  
+- 🔐 Firebase authentication  
+- 📄 View detailed game information after login  
 - 🎨 Smooth animations and transitions  
 - 🔔 Toast notifications for user actions  
 
 ---
 
 ## 🛠️ Technologies & NPM Packages Used
-- **React** – Building the user interface  
-- **React Router** – Page navigation and routing  
+
+- **React** – User interface development  
+- **React Router** – Client-side routing  
 - **Tailwind CSS** – Utility-first CSS framework  
-- **DaisyUI** – Pre-styled Tailwind UI components  
+- **DaisyUI** – Tailwind UI components  
 - **Framer Motion** – Animations and transitions  
-- **React Toastify** – Toast notifications  
+- **React Toastify** – Notification system  
 - **Firebase** – Authentication, hosting, and database  
-- **Firebase Tools** – Project deployment  
+- **Firebase Tools** – Deployment and project management  
 
 ---
 
 ## 🚀 Run Locally
+
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/gamehub.git
+```
+
+### 2️⃣ Navigate to Project Directory
+```bash
 cd gamehub
+```
+
+### 3️⃣ Install Dependencies
+```bash
 npm install
+```
+
+### 4️⃣ Start the Development Server
+```bash
 npm run dev
+```
+
+---
+
+## 👤 Author
+
+**Tahsin Sikder**  
+🔗 LinkedIn: https://www.linkedin.com/in/tahsin-sikder99/  
+🌐 Portfolio: https://tahsin-web.netlify.app/
